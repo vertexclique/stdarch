@@ -131,7 +131,7 @@ features! {
     @FEATURE: #[stable(feature = "simd_x86", since = "1.27.0")] avx512cd: "avx512cd" ;
     /// AVX-512 CD (Conflict Detection Instructions)
     @FEATURE: #[stable(feature = "simd_x86", since = "1.27.0")] avx512er: "avx512er";
-    /// AVX-512 ER (Expo nential and Reciprocal Instructions)
+    /// AVX-512 ER (Exponential and Reciprocal Instructions)
     @FEATURE: #[stable(feature = "simd_x86", since = "1.27.0")] avx512pf: "avx512pf";
     /// AVX-512 PF (Prefetch Instructions)
     @FEATURE: #[stable(feature = "simd_x86", since = "1.27.0")] avx512bw: "avx512bw";
